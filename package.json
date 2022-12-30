@@ -19,7 +19,7 @@
     "file-loader": "^0.11.2",
     "lodash": "^4.17.15",
     "lodash-webpack-plugin": "^0.10.2",
-    "mocha": "^7.0.0",
+    "mocha": "^10.2.0",
     "morgan": "^1.9.1",
     "nightmare": "^3.0.1",
     "prop-types": "^15.5.10",
